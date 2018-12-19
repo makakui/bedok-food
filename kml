@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name></name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Bedok Interchange Hawker Centre Singapore</address>
+				<Point>
+					<coordinates>103.9306235,1.324801,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 206 Bedok North kopitiam Singapore</address>
+				<Point>
+					<coordinates>103.931147,1.3261136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 211 Bedok North Food House Singapore</address>
+				<Point>
+					<coordinates>103.9323136,1.3256051,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 216 Bedok North Food Centre Singapore</address>
+				<Point>
+					<coordinates>103.9331156,1.3273387,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 217 Bedok North Food Loft Singapore</address>
+				<Point>
+					<coordinates>103.9337278,1.3267461,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 136 Bedok North Coffee shop Singapore</address>
+				<Point>
+					<coordinates>103.9352259,1.3281459,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 123 Bedok North Coffee Corner Singapore</address>
+				<Point>
+					<coordinates>103.9372849,1.329411,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 122 Bedok North Chang Long Coffee Shop Singapore</address>
+				<Point>
+					<coordinates>103.9379064,1.3294245,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 58 New Upper Changi Singapore</address>
+				<Point>
+					<coordinates>103.9414481,1.3238768,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 56 New Upper Changi Singapore</address>
+				<Point>
+					<coordinates>103.9411197,1.3253215,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 16 Bedok South Food Centre Singapore</address>
+				<Point>
+					<coordinates>103.9355585,1.320499,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Blk 85 Bedok North Singapore</address>
+				<Point>
+					<coordinates>103.9387805,1.332073,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
